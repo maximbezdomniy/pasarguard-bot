@@ -1,0 +1,25 @@
+# Секретные файлы — никогда не выкладывать на GitHub
+config.py
+.env
+
+# База данных с реальными пользователями
+users.db
+
+# Виртуальное окружение Python
+venv/
+.venv/
+
+# Python кэш
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Логи
+*.log
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
