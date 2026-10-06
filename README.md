@@ -91,7 +91,7 @@ pasarguard-bot/
 ### 1. Клонирование и установка зависимостей
 
 ```bash
-git clone https://github.com/parkhomenko-m/pasarguard-bot
+git clone https://github.com/maximbezdomniy/pasarguard-bot
 cd pasarguard-bot
 python3 -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
